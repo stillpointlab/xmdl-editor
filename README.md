@@ -1,3 +1,5 @@
+> **Archived 2026-11-01.** This package now lives in [stillpointlab/surfaces](https://github.com/stillpointlab/surfaces) as `packages/formats/xmdl` (`@stillpointlab/xmdl-format`), with this history preserved. Context Manager mounts that repository as one submodule (ADR-0035).
+
 # @stillpointlab/xmdl-editor
 
 XMDL parser and web component package for typed template documents.
